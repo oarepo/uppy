@@ -29,7 +29,7 @@
     "@webcam/core": "^1.0.1",
     "clsx": "^2.1.1",
     "dequal": "^2.0.3",
-    "preact": "^10.5.13",
+    "preact": "^10.26.10",
     "pretty-bytes": "^6.1.1"
   },
   "devDependencies": {
