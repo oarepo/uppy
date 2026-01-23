@@ -75,7 +75,7 @@
     "./lib/fetcher": "./lib/fetcher.js"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "preact": "^10.5.13"
   },
   "devDependencies": {
